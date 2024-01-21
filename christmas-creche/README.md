@@ -12,4 +12,4 @@ Some I/O are used to drive lights and objects.
 
 Hardware
 -----
-This project was developed on Arduino Uno with a RGB shield and a dedicated relays board to manage starts, lights in the houses and fireplace.
+This project was developed on Arduino Uno with a RGB shield and a dedicated relays board to manage stars, lights in the houses and fireplace.
