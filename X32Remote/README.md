@@ -5,7 +5,7 @@ Description
 -----
 This project use the Open Sound Control to manage a Behringer X32 remotely.
 
-It's developed to work with WiFi or Ethernet depending on hardware used.
+It's developed to work with WiFi or Ethernet depending on the hardware used.
 
 The goal is to have a remote that can modify the volume of the selected DCA, mute it or change the preset (scene).
 
