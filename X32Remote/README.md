@@ -9,7 +9,7 @@ It's developed to work with WiFi or Ethernet depending on hardware used.
 
 The goal is to have a remote that can modify the volume of the selected DCA, mute it or change the preset (scene).
 
-![](x32remote.png)
+![](img/x32remote.png)
 
 
 Hardware
