@@ -47,10 +47,14 @@ There are some variables that should be set:
  - pass (set WiFi password in case of WiFi mode)
 
  - outIp (set the ip of your X32 Mixer)
-
+ 
+ - volumeSteps (define the step for every click: default is 0.0125 for 80 steps)
+ 
  - sceneMin (set to 0, mandatory)
  - sceneMax (set the max number of scenes that remote can select)
  - sceneDesc (Not mandatory, you can specify a description for the first N scenes)
+
+The software works by defaults with DCA 1, but it can be modified changing the OSC message.
 
 
 Dependencies
